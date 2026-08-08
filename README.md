@@ -1,22 +1,10 @@
-# leetcode-solutions
-Collection of LeetCode questions to ace the coding interview! - Created using [LeetHub-3.0](https://github.com/raphaelheinz/LeetHub-3.0)
+# LeetCode Solutions
 
-<!---LeetCode Topics Start-->
-# LeetCode Topics
-## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0009-palindrome-number](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0009-palindrome-number/) | Easy |
-## String
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
-## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
-## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
-| [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
-<!---LeetCode Topics End-->
+My Java solutions to LeetCode problems for DSA practice and technical interview preparation.
+
+Language: Java
+Platform: LeetCode
+Focus: Data Structures & Algorithms
+Sync: Solutions are automatically synced using LeetHub-3.0.
+
+[LeetHub-generated topic tables]

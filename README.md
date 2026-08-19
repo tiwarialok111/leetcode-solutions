@@ -41,5 +41,14 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
+## Linked List
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+## Recursion
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 <!---LeetCode Topics End-->

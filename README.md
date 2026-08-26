@@ -45,6 +45,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -67,4 +68,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+## Sliding Window
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 <!---LeetCode Topics End-->

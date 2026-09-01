@@ -29,6 +29,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | ------- | ------- |
 | [0011-container-with-most-water](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0125-valid-palindrome](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 ## Sorting
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -50,6 +51,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0125-valid-palindrome](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [2103-rings-and-rods](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |

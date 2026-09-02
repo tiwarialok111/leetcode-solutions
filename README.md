@@ -24,6 +24,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Two Pointers
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -63,6 +64,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
+| [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 ## Linked List
 | Problem Name | Difficulty |
 | ------- | ------- |

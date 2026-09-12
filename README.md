@@ -19,6 +19,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
@@ -67,6 +68,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
+| [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -118,4 +120,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
+## Divide and Conquer
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 <!---LeetCode Topics End-->

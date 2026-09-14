@@ -70,6 +70,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
+| [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
@@ -126,4 +127,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
+## Geometry
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 <!---LeetCode Topics End-->

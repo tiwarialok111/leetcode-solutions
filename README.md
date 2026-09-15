@@ -59,6 +59,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## String
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0125-valid-palindrome](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
@@ -92,6 +93,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## Dynamic Programming
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [0072-edit-distance](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 ## Sliding Window
 | Problem Name | Difficulty |

@@ -73,6 +73,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
@@ -95,6 +96,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Sliding Window
 | Problem Name | Difficulty |
 | ------- | ------- |
@@ -120,6 +122,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## Prefix Sum
 | Problem Name | Difficulty |
 | ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -133,4 +136,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
+## Combinatorics
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 <!---LeetCode Topics End-->

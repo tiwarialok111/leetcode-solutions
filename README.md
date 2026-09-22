@@ -17,6 +17,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0001-two-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0015-3sum/) | Medium |
+| [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [0217-contains-duplicate](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0283-move-zeroes](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
@@ -79,6 +80,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
+| [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -160,4 +162,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
+## Matrix
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 <!---LeetCode Topics End-->

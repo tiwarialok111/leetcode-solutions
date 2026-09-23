@@ -26,6 +26,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -58,6 +59,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2103-rings-and-rods](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2103-rings-and-rods/) | Easy |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
@@ -114,6 +116,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
 | Problem Name | Difficulty |
@@ -137,6 +140,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Heap (Priority Queue)
 | Problem Name | Difficulty |
@@ -158,6 +162,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
+| [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Simulation
 | Problem Name | Difficulty |
 | ------- | ------- |

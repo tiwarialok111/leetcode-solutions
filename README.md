@@ -31,6 +31,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2996-smallest-missing-integer-greater-than-sequential-prefix-sum/) | Easy |
 | [3471-find-the-largest-almost-missing-integer](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3471-find-the-largest-almost-missing-integer/) | Easy |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3904-smallest-stable-index-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -88,6 +89,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3870-count-commas-in-range](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |

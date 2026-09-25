@@ -84,6 +84,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | ------- | ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0168-excel-sheet-column-title](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
@@ -111,6 +112,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0072-edit-distance](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
+| [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0121-best-time-to-buy-and-sell-stock/) | Easy |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
@@ -173,4 +175,16 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
+## Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Search Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
+## Binary Tree
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 <!---LeetCode Topics End-->

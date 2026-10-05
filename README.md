@@ -82,6 +82,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
 | [0678-valid-parenthesis-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
+| [0856-score-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -210,6 +211,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
@@ -220,6 +222,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0022-generate-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
+| [0856-score-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
 | [1111-maximum-nesting-depth-of-two-valid-parentheses-strings](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1111-maximum-nesting-depth-of-two-valid-parentheses-strings/) | Medium |
 | [1190-reverse-substrings-between-each-pair-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1190-reverse-substrings-between-each-pair-of-parentheses/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |

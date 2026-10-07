@@ -80,6 +80,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0125-valid-palindrome](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0168-excel-sheet-column-title](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0168-excel-sheet-column-title/) | Easy |
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
+| [0301-remove-invalid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0856-score-of-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0856-score-of-parentheses/) | Medium |
@@ -235,4 +236,9 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | Problem Name | Difficulty |
 | ------- | ------- |
 | [0022-generate-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
+| [0301-remove-invalid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
+## Breadth-First Search
+| Problem Name | Difficulty |
+| ------- | ------- |
+| [0301-remove-invalid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 <!---LeetCode Topics End-->

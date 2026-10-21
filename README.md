@@ -104,6 +104,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
+| [3863-minimum-operations-to-sort-a-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
 | Problem Name | Difficulty |
 | ------- | ------- |

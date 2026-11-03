@@ -12,8 +12,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 <!---LeetCode Topics Start-->
 # LeetCode Topics
 ## Array
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0011-container-with-most-water](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0015-3sum/) | Medium |
@@ -39,20 +39,21 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwarialok111/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 | [3904-smallest-stable-index-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 | [3942-minimum-operations-to-sort-a-permutation](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3942-minimum-operations-to-sort-a-permutation/) | Medium |
 ## Two Pointers
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0015-3sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0125-valid-palindrome](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0125-valid-palindrome/) | Easy |
 | [0283-move-zeroes](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0283-move-zeroes/) | Easy |
 ## Sorting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0015-3sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0015-3sum/) | Medium |
 | [0217-contains-duplicate](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -64,8 +65,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Hash Table
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0001-two-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0001-two-sum/) | Easy |
 | [0217-contains-duplicate](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0217-contains-duplicate/) | Easy |
 | [0242-valid-anagram](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0242-valid-anagram/) | Easy |
@@ -82,8 +83,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [3718-smallest-missing-multiple-of-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3718-smallest-missing-multiple-of-k/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## String
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -108,8 +109,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3863-minimum-operations-to-sort-a-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3863-minimum-operations-to-sort-a-string/) | Medium |
 ## Math
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
@@ -121,21 +122,22 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
+| [3736-minimum-moves-to-equal-array-elements-iii](https://github.com/tiwarialok111/leetcode-solutions/tree/master/3736-minimum-moves-to-equal-array-elements-iii) |
 | [3870-count-commas-in-range](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3870-count-commas-in-range/) | Easy |
 | [3875-construct-uniform-parity-array-i](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3875-construct-uniform-parity-array-i/) | Easy |
 | [3886-sum-of-sortable-integers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Linked List
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 ## Recursion
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0002-add-two-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0002-add-two-numbers/) | Medium |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 ## Greedy
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0011-container-with-most-water](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0011-container-with-most-water/) | Medium |
 | [0678-valid-parenthesis-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
 | [0921-minimum-add-to-make-parentheses-valid](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0921-minimum-add-to-make-parentheses-valid/) | Medium |
@@ -144,8 +146,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
 | [3727-maximum-alternating-sum-of-squares](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3727-maximum-alternating-sum-of-squares/) | Medium |
 ## Dynamic Programming
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0072-edit-distance](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0072-edit-distance/) | Medium |
@@ -156,83 +158,83 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Sliding Window
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2904-shortest-and-lexicographically-smallest-beautiful-string/) | Medium |
 ## Counting
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 ## Enumeration
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3483-unique-3-digit-even-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3483-unique-3-digit-even-numbers/) | Easy |
 | [3720-lexicographically-smallest-permutation-greater-than-target](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3720-lexicographically-smallest-permutation-greater-than-target/) | Medium |
 | [3886-sum-of-sortable-integers](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3886-sum-of-sortable-integers/) | Hard |
 ## Union-Find
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2948-make-lexicographically-smallest-array-by-swapping-elements/) | Medium |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Database
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0183-customers-who-never-order](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0183-customers-who-never-order/) | Easy |
 ## Prefix Sum
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
 ## Heap (Priority Queue)
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2231-largest-number-after-digit-swaps-by-parity](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2231-largest-number-after-digit-swaps-by-parity/) | Easy |
 ## Divide and Conquer
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 ## Geometry
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 ## Combinatorics
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 ## Binary Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 ## Simulation
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0048-rotate-image](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0048-rotate-image/) | Medium |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Search Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Binary Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0096-unique-binary-search-trees](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0096-unique-binary-search-trees/) | Medium |
 ## Stack
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0032-longest-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
 | [0678-valid-parenthesis-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0678-valid-parenthesis-string/) | Medium |
@@ -244,8 +246,8 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [1541-minimum-insertions-to-balance-a-parentheses-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1541-minimum-insertions-to-balance-a-parentheses-string/) | Medium |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 ## Bracket Sequences
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0020-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0020-valid-parentheses/) | Easy |
 | [0022-generate-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0032-longest-valid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0032-longest-valid-parentheses/) | Hard |
@@ -259,25 +261,25 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1614-maximum-nesting-depth-of-the-parentheses/) | Easy |
 | [2267-check-if-there-is-a-valid-parentheses-string-path](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2267-check-if-there-is-a-valid-parentheses-string-path/) | Hard |
 ## Backtracking
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0022-generate-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0022-generate-parentheses/) | Medium |
 | [0301-remove-invalid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 ## Breadth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [0301-remove-invalid-parentheses](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0301-remove-invalid-parentheses/) | Hard |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 ## Binary Indexed Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Segment Tree
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [2916-subarrays-distinct-element-sum-of-squares-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/2916-subarrays-distinct-element-sum-of-squares-ii/) | Hard |
 ## Depth-First Search
-| Problem Name | Difficulty |
-| ------- | ------- |
+|  |
+| ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
 <!---LeetCode Topics End-->

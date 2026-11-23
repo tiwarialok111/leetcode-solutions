@@ -24,6 +24,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0819-most-common-word](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0819-most-common-word/) | Easy |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1477-find-two-non-overlapping-sub-arrays-each-with-target-sum](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1477-find-two-non-overlapping-sub-arrays-each-with-target-sum/) | Medium |
 | [1502-can-make-arithmetic-progression-from-sequence](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1502-can-make-arithmetic-progression-from-sequence/) | Easy |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
@@ -118,6 +119,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0598-range-addition-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0598-range-addition-ii/) | Easy |
 | [0836-rectangle-overlap](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0836-rectangle-overlap/) | Easy |
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
@@ -186,6 +188,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## Prefix Sum
 |  |
 | ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
 | [1658-minimum-operations-to-reduce-x-to-zero](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1658-minimum-operations-to-reduce-x-to-zero/) | Medium |
 | [3904-smallest-stable-index-ii](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3904-smallest-stable-index-ii/) | Medium |
@@ -282,4 +285,12 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 |  |
 | ------- |
 | [3619-count-islands-with-total-value-divisible-by-k](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3619-count-islands-with-total-value-divisible-by-k/) | Medium |
+## Design
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
+## Data Stream
+|  |
+| ------- |
+| [1352-product-of-the-last-k-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 <!---LeetCode Topics End-->

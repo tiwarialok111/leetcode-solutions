@@ -121,6 +121,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 | [0932-beautiful-array](https://github.com/tiwarialok111/leetcode-solutions/tree/main/0932-beautiful-array/) | Medium |
 | [1352-product-of-the-last-k-numbers](https://github.com/tiwarialok111/leetcode-solutions/tree/master/1352-product-of-the-last-k-numbers) |
 | [1621-number-of-sets-of-k-non-overlapping-line-segments](https://github.com/tiwarialok111/leetcode-solutions/tree/main/1621-number-of-sets-of-k-non-overlapping-line-segments/) | Medium |
+| [3360-stone-removal-game](https://github.com/tiwarialok111/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3550-smallest-index-with-digit-sum-equal-to-index/) | Easy |
 | [3622-check-divisibility-by-digit-sum-and-product](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3622-check-divisibility-by-digit-sum-and-product/) | Easy |
 | [3723-maximize-sum-of-squares-of-digits](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3723-maximize-sum-of-squares-of-digits/) | Medium |
@@ -216,6 +217,7 @@ Sync: Solutions are automatically synced using LeetHub-3.0.
 ## Simulation
 |  |
 | ------- |
+| [3360-stone-removal-game](https://github.com/tiwarialok111/leetcode-solutions/tree/master/3360-stone-removal-game) |
 | [3498-reverse-degree-of-a-string](https://github.com/tiwarialok111/leetcode-solutions/tree/main/3498-reverse-degree-of-a-string/) | Easy |
 ## Matrix
 |  |
